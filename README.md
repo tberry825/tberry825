@@ -27,14 +27,14 @@ I enjoy making complex workflows approachable, turning ideas into usable interfa
 
 ## Featured Projects
 
-### 01 · [Concrete Rose Graphics](https://concreterosegraphics.com/)
+### 01 · [Concrete Rose Graphics](https://github.com/tberry825/concrete-rose-graphics-portfolio-website)
 **Business portfolio website · Frontend development & graphic design**
 
 Designed and developed a branded business website showcasing design services, frontend development, project work, and ways for prospective clients to connect.
 
 **Technologies:** React · Vite · Tailwind CSS · Base44
 
-[Visit website](https://concreterosegraphics.com/)
+[View code](https://github.com/tberry825/concrete-rose-graphics-portfolio-website) · [Visit live website](https://concreterosegraphics.com/)
 
 ### 02 · Yotieso Global Consulting
 **Client website · Frontend development & UI design**
@@ -52,7 +52,7 @@ Contributed to interactive editing workflows for an AI-assisted imaging applicat
 
 **Technologies used in role:** React · Next.js · TypeScript · Tailwind CSS
 
-[View portfolio case study](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)
+[View GitHub case study](https://github.com/tberry825/clearseek-frontend-case-study) · [Watch portfolio demonstrations](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)
 
 *Professional experience presented without employer-owned source code. Demonstration materials remain subject to sharing permission.*
 
