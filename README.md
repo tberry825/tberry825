@@ -36,14 +36,14 @@ Designed and developed a branded business website showcasing design services, fr
 
 [View code](https://github.com/tberry825/concrete-rose-graphics-portfolio-website) · [Visit live website](https://concreterosegraphics.com/)
 
-### 02 · Yotieso Global Consulting
+### 02 · [Yotieso Global Consulting](https://github.com/tberry825/yotieso-global-consulting)
 **Client website · Frontend development & UI design**
 
 Developed a business-focused website with responsive layouts, polished presentation, and consultation-oriented user journeys.
 
 **Technologies:** React · JavaScript · Vite · Tailwind CSS · Base44
 
-*Client project. Public source and detailed assets will be shared only with permission.*
+[View website source](https://github.com/tberry825/yotieso-global-consulting) · *Published with client permission.*
 
 ### 03 · [ClearSeek / DejaVuAI](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)
 **Professional frontend development · Case study**
