@@ -50,7 +50,7 @@ Developed a business-focused website with responsive layouts, polished presentat
 
 Contributed to interactive editing workflows for an AI-assisted imaging application, including selection tools, canvas-based interactions, theme behavior, and video frame extraction.
 
-**Technologies used in role:** React · Next.js · TypeScript · Tailwind CSS · API integrations
+**Technologies used in role:** React · Next.js · TypeScript · Tailwind CSS
 
 [View portfolio case study](https://concreterosegraphics.com/projects/vertex-studio/dejavuai)
 
